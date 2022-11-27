@@ -10,3 +10,8 @@ U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ss
 - 🔭 SeKAmW0gY3VycmVudGx5IHdvcmtpbmcgZm9yIGEgZS1jb21tZXJjZSBDb21wYW55Lg==
 - 🌱 SeKAmW0gY3VycmVudGx5IGxlYXJuaW5nIGFib3V0IExpbnV4LCBPcGVuU291cmNlLCBLdWJlcm5ldGVzLCBIZWxtLCBTZWN1cml0eSwgR29sYW5nLg==
 - 😄 SG9iYmllcyA6IEZvb3RiYWxsIDpzb2NjZXI6LCBTd2ltbWluZyA6c3dpbW1lcjosIEpvZ2dpbmcgOnJ1bm5lcjo=
+
+### Contributing to Open-Source 🔥
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tainnsre&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/tainnsre)  

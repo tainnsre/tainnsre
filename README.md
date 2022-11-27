@@ -11,6 +11,9 @@ U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ss
 - 🌱 SeKAmW0gY3VycmVudGx5IGxlYXJuaW5nIGFib3V0IExpbnV4LCBPcGVuU291cmNlLCBLdWJlcm5ldGVzLCBIZWxtLCBTZWN1cml0eSwgR29sYW5nLg==
 - 😄 SG9iYmllcyA6IEZvb3RiYWxsIDpzb2NjZXI6LCBTd2ltbWluZyA6c3dpbW1lcjosIEpvZ2dpbmcgOnJ1bm5lcjo=
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainnsre)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contributing to Open-Source 🔥
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tainnsre&show_icons=true)  
 

@@ -52,16 +52,20 @@ Highly skilled and motivated Site Reliability Engineer (SRE) with 3 years of exp
 - [0xCKS], [Certifying Organization], [2024]
 
 ## Technical Skills
-- Programming Languages: Shell scripting, Python, Go,
-- Cloud Technologies: AWS, Azure, Google Cloud Platform
-- Containerization and Orchestration: Docker, Kubernetes
-- Infrastructure as Code (IaC): Terraform, Ansible
-- Continuous Integration/Continuous Delivery (CI/CD): Jenkins, GitLab CI/CD
-- Monitoring and Alerting: Prometheus, Grafana, ELK Stack
-- Incident Response and Troubleshooting: PagerDuty, Splunk, New Relic
-- Reliability Engineering: SLA/SLO, Error Budgets, Chaos Engineering
-- Networking: TCP/IP, DNS, Load Balancing
-- Collaboration and Communication: Agile, Scrum, Jira, Confluence
+- Programming Languages: Shell scripting, Python, Go
+- Cloud Technologies: AWS, Azure, GCP, VMware, OVHCloud
+- Containerization and Orchestration: Docker, Kubernetes, AKS, RKE, EKS
+- Infrastructure as Code (IaC): Terraform, Atlantis, Packer.
+- Configuration Management: Ansible, Chef
+- Networking/Security: TCP/IP, DNS, Load Balancing, Switch and Routing, IPSec/SSL VPN, Zero Iptables, Fail2ban, Firewalld, CSF, pFsense, CyberArk, Vault.
+- SAST: Snyk, SonarQube, GHAS.
+- Telecom: Asterisk, FreePBX, CIS AutoDial, dahdi tool E1, GSM gateway.
+- Continuous Integration/Continuous Delivery (CI/CD): Jenkins, GitLabCI, Github Action, ArgoCD, FluxCD
+- Distributed tracing: Tempo, Jaeger, OpenTelemetry, Sentry, APM Elasticsearch
+- Monitoring and Alerting: Prometheus, Grafana, VictoriaMetrics, ELK Stack, LGTM Stack, PLG Stack
+- Incident Response and Troubleshooting: PagerDuty, Splunk
+- Reliability Engineering: SLA/SLO, Error Budgets
+- Collaboration and Communication: Jira, Confluence
 
 ## Experience
 

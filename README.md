@@ -27,10 +27,10 @@ U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ss
 
 ![Profile views](https://gpvc.arturio.dev/tainnsre)  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tainguyenbp&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tainnsre&theme=transparent)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tainguyenbp&theme=transparent)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tainguyenbp&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tainnsre&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tainnsre&theme=transparent)
 
 # Nguyen Ngoc Tai - Site Reliability Engineer
 
